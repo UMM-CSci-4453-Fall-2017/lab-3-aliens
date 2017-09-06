@@ -1,0 +1,21 @@
+Our current table design is three tables. 
+
+Employee Table:
+Columns: ID, position, salary, start date, manager, current employee(1 or 0)
+The table should also allow for manager access for viewing/altering employee data. 
+
+Time Clock Table:
+Columns:clocked in time, clock out time, employee ID, total time worked(Clocked out-clocked in), 
+It should again allow for manager access to alter times and views times as necessary. 
+employee should be able to clock in and clock out...that's it.
+
+Inventory Table:
+Columns: item, price, description, quantity available, purchased location
+Also giving manager access to be able to view and print receipts for past transactions. 
+
+Employees and managers should be able to access inventory to update and change values when needed, Managers should be able to see change history and by who. And managers should be able to have a greater access to the values that could be changed. Such as an employee should probably only be able to change quantity.
+
+Transaction Table:
+Columns: transaction ID, item, number sold, Sale time, purchased location, employee Id
+
+During a transaction a employee should have to log in to track who sold what. While the transaction is working the employee should be able to add items to the list, delete items, void any items that may be need changes after the fact. also the employee should be able to alter an item's values if an error occurs in the middle of the transaction. 
