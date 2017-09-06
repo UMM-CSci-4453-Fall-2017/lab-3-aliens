@@ -504,15 +504,17 @@ Let's break that down:
 
 ## Checklist of what to do
 
-- [ ] Indicate your group name, members in a file named `group.txt` that gets uploaded with your repository
-- [ ] Create about a page's worth of speculation on a point of sales system in a file named `speculations.txt`
-- [ ] Do the required checks (not turned in)
-- [ ] Do the Anomaly Exercises (one per group-- indicate WHO has the answers)
+- [x] Indicate your group name, members in a file named `group.txt` that gets uploaded with your repository
+- [x] Create about a page's worth of speculation on a point of sales system in a file named `speculations.txt`
+- [x] Do the required checks (not turned in)
+- [x] Do the Anomaly Exercises (one per group-- indicate WHO has the answers)
+    * Ben has this
 - [ ] Each group should create their own table with the following properties:
     - [ ] In first normal form, but not second normal form
     - [ ] In second normal form, but not in third normal form
     - [ ] In third normal form, but not in BNC form
-- [ ] Type in all (or most) of the examples in this lab
+- [x] Type in all (or most) of the examples in this lab
+    * Should also be Ben
 - [ ] Indicate in Canvas which database I should search for your group's answers.
 
 
