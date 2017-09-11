@@ -509,13 +509,13 @@ Let's break that down:
 - [x] Do the required checks (not turned in)
 - [x] Do the Anomaly Exercises (one per group-- indicate WHO has the answers)
     * Ben has this
-- [ ] Each group should create their own table with the following properties:
-    - [ ] In first normal form, but not second normal form
-    - [ ] In second normal form, but not in third normal form
-    - [ ] In third normal form, but not in BNC form
+- [x] Each group should create their own table with the following properties:
+    - [x] In first normal form, but not second normal form
+    - [x] In second normal form, but not in third normal form
+    - [x] In third normal form, but not in BNC form
 - [x] Type in all (or most) of the examples in this lab
     * Should also be Ben
-- [ ] Indicate in Canvas which database I should search for your group's answers.
+- [x] Indicate in Canvas which database I should search for your group's answers.
 
 
 [1] SQA's _Fundamentals of Database Design_ and _Elmasri and Navathe_  
