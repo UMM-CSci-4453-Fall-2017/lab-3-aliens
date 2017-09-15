@@ -10,12 +10,12 @@ It should again allow for manager access to alter times and views times as neces
 employee should be able to clock in and clock out...that's it.
 
 Inventory Table:
-Columns: item, price, description, quantity available, purchased location
+Columns: item ID, price, description, quantity available, purchased location
 Also giving manager access to be able to view and print receipts for past transactions. 
 
 Employees and managers should be able to access inventory to update and change values when needed, Managers should be able to see change history and by who. And managers should be able to have a greater access to the values that could be changed. Such as an employee should probably only be able to change quantity.
 
 Transaction Table:
-Columns: transaction ID, item, number sold, Sale time, purchased location, employee Id
+Columns: transaction ID, item ID, number sold, Sale time, purchased location, employee Id
 
 During a transaction a employee should have to log in to track who sold what. While the transaction is working the employee should be able to add items to the list, delete items, void any items that may be need changes after the fact. also the employee should be able to alter an item's values if an error occurs in the middle of the transaction. 
